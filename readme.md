@@ -26,5 +26,11 @@ A model that uses Speech recognition, to open websites, play songs, open applica
  
 ![main](https://user-images.githubusercontent.com/71118230/167261729-7f7439da-024e-4d8b-8193-bbf1e530e79f.JPG)
 
+<h2>Application Preview</h2>
+
+![im3](https://user-images.githubusercontent.com/71118230/167262037-bd9d040f-d448-4021-9a89-fea89b5ccdab.JPG)
+
+
+
  
 
