@@ -1,4 +1,4 @@
-<h1><em>AI MODEL</em></h1>
+<h1><em>AI MODEL✌🤞✨🎶😎</em></h1>
 
 Responsive model for the user, based on the command line and voice accessibility feature.<br>
 A model that uses Speech recognition, to open websites, play songs, open applications, and other tasks asked by the user to do. 
@@ -16,7 +16,15 @@ A model that uses Speech recognition, to open websites, play songs, open applica
   <li>
     <h3>Open the folder named <em>"dist"</em></h3>
   </li>
-  
+  <li>
+    <h3>Then open the folder project2</h3>
+  </li>
+  <li>
+    <h3>Finally, Run the application named project2</h3>
+  </li>
+ </ul>
+ 
+![main](https://user-images.githubusercontent.com/71118230/167261729-7f7439da-024e-4d8b-8193-bbf1e530e79f.JPG)
 
-</ul>
-![img 1](https://user-images.githubusercontent.com/71118230/167260981-d9c35105-1bce-4faa-9832-d8878495ec5b.PNG)
+ 
+
